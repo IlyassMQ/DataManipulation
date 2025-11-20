@@ -1,4 +1,4 @@
-const employees = [
+ const employees = [
   {
     id: 1,
     firstName: "Jean",
@@ -750,3 +750,5 @@ const employees = [
     languages: ["French", "English", "Italian"]
   }
 ];
+
+export {employees}
